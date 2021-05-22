@@ -47,5 +47,6 @@ compiler/.gradle/*
 # Tomcat
 .extract
 
-# Git
-.gitkeep
+# log folder
+/log/*
+!/log/.gitkeep
